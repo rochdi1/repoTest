@@ -1,0 +1,1000 @@
+ 1004  sudo apt-get install -f
+ 1005  opencode
+ 1006  cd ~/.config/opencode/commands/
+ 1007  cd ..
+ 1008  sudo su
+ 1009  sudo su
+ 1010  code .
+ 1011  code .
+ 1012  code .
+ 1013  claude
+ 1014  ollama launch claude --model nemotron-3-ultra:cloud
+ 1015  sudo su
+ 1016  docker compose up -d
+ 1017  docker compose ps
+ 1018  docker compose down
+ 1019  docker images
+ 1020  docker compose rmi 14cea493d9a3
+ 1021  docker rmi 14cea493d9a3
+ 1022  docker images
+ 1023  docker rmi ec067f5a7259
+ 1024  docker rmi ff02b58f971e
+ 1025  docker rmi cf78e76683b9
+ 1026  docker images
+ 1027  docker rmi cf78e76683b9
+ 1028  docker rmi -f cf78e76683b9
+ 1029  docker images
+ 1030  verdent
+ 1031  npm run build
+ 1032  cd /home/casa/GitHub/verdentAI && rm -f __flow-check.html public/__mobile-check.html && pkill -f "vite --port 5183"; sleep 1; echo "--- files ---"; ls -a; echo "--- src ---"; ls -R src; echo "--- build ---"; npm run build 2>&1 | tail -20
+ 1033  npm run dev
+ 1034  npm run dev -- --host
+ 1035  npm run dev
+ 1036  code .
+ 1037  ipconfig
+ 1038  ipkonfig
+ 1039  ifconfig
+ 1040  ip config
+ 1041  ip help
+ 1042  ip address
+ 1043  ip a
+ 1044  hostname -I
+ 1045  ip route
+ 1046  cd\
+ 1047  cd/
+ 1048  cd \
+ 1049  ip addr
+ 1050  sudo ufw allow 3000/tcp
+ 1051  sudo ufw allow 5173/tcp
+ 1052  claude
+ 1053  ollama launch claude --model nemotron-3-ultra:cloud
+ 1054  cd \
+ 1055  sudo su
+ 1056  cd /GitHub^Claude-howto/
+ 1057  cd /GitHub/Claude-howto/
+ 1058  cd ~/GitHub/Claude-howto/
+ 1059  ls
+ 1060  cd \
+ 1061  cd ~/GitHub/claude-howto/
+ 1062  sudo su
+ 1063  echo "# -DockerizeSpringBootApp" >> README.md
+ 1064  git init
+ 1065  git add README.md
+ 1066  git commit -m "first commit"
+ 1067  git branch -M main
+ 1068  git remote add origin https://github.com/rochdi1/-DockerizeSpringBootApp.git
+ 1069  git push -u origin main
+ 1070  cd spring-boot-crud-rest-api/
+ 1071  ./mvnw clean install
+ 1072  touch prompt.txt
+ 1073  code .
+ 1074  sudo apt-get install poppler-utils
+ 1075  pdftotext CV-1.pdf CV-1.txt
+ 1076  pdftotext LebenslaufundZeugnisses.pdf LebenslaufundZeugnisses.txt
+ 1077  pdftotext Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant_2026_04_28 (1).pdf Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant_2026_04_28 (1).txt
+ 1078  pdftotext Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant_2026_04_28 (1).pdf Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant_2026_04_28.txt
+ 1079  pdftotext Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant_2026_04_28 (1).pdf Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant.txt
+ 1080  pdftotext 2026_01_08 Rochdi, Abdelatif.pdf 2026_01_08 Rochdi, Abdelatif.txt
+ 1081  pdftotext 2026_01_08_RochdiAbdelatif.pdf 2026_01_08_RochdiAbdelatif.txt
+ 1082  pdftotext Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant.pdf Rochdi_Abdelatif_Auel_Mitarbeiterprofil_Hochkant.txt
+ 1083  ollama launch claude --model nemotron-3-ultra:cloud
+ 1084  git clone https://github.com/rochdi1/DockerizeSpringBootApp.git
+ 1085  sudo systemctl stop ollama
+ 1086  sudo systemctl stop jenkins
+ 1087  sudo systemctl ls
+ 1088  sudo systemctl
+ 1089  sudo su
+ 1090  ./xampp-linux-x64-8.2.12-0-installer.run 
+ 1091  sudo su
+ 1092  curl http://localhost:8080/api/products
+ 1093  docker build -t product-service:latest .
+ 1094  docker ps
+ 1095  docker images
+ 1096  docker run --name product-service   -e DB_HOST=host.docker.internal   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1097  docker compose down
+ 1098  docker run --name product-service   -e DB_HOST=host.docker.internal   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1099  docker ps
+ 1100  docker compose ps
+ 1101  ./mvnw clean install
+ 1102  ./mvnw spring-boot:run
+ 1103  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1104  docker compose up -d
+ 1105  docker run --name product-service   -e DB_HOST=host.docker.internal   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1106  docker ps
+ 1107  docker build -t product-service:latest .
+ 1108  docker compose down
+ 1109  docker ps
+ 1110  clear
+ 1111  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1112  docker images
+ 1113  docker compose up -d
+ 1114  docker compose down
+ 1115  clear
+ 1116  ./mvnw clean install
+ 1117  java /src/target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1118  java ./src/target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1119  java /target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1120  java ./target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1121  java /target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1122  java /home/casa/eclipse-workspace/DockerizeSpringBootApp/spring-boot-crud-rest-api/target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1123  clear
+ 1124  ./mvnw spring-boot:run
+ 1125  mvn clean package -DskipTests
+ 1126  ./mvnw spring-boot:run
+ 1127  java -jar target/spring-boot-rest-api-0.0.1-SNAPSHOT.jar
+ 1128  mvn spring-boot:run -e
+ 1129  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1130  docker run --name product-service   -e DB_HOST=host.docker.internal   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1131  docker compose up -d
+ 1132  docker compose down -v
+ 1133  docker compose up -d
+ 1134  docker compose ps
+ 1135  docker compose logs -f app
+ 1136  docker compose down -v
+ 1137  clear
+ 1138  docker compose up -d
+ 1139  docker compose down -v
+ 1140  clear
+ 1141  ./mvnm clean install
+ 1142  ./mvnw clean install
+ 1143  ./mvnw spring-boot:run
+ 1144  clear
+ 1145  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1146  clear
+ 1147  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1148  docker compose up -d
+ 1149  docker compose down -v
+ 1150  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1151  docker compose up -d
+ 1152  docker compose down -v
+ 1153  clear
+ 1154  docker build -t product-service:latest .
+ 1155  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1156  docker compose up -d
+ 1157  docker compose down -v
+ 1158  clear
+ 1159  docker build -t product-service:latest .
+ 1160  docker run --name product-service   -e DB_HOST=localhost   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1161  docker compose up -d
+ 1162  docker compose logs -f app
+ 1163  docker compose down -v
+ 1164  docker compose up -d
+ 1165  docker compose down -v
+ 1166  docker compose up -d
+ 1167  docker compose down -v
+ 1168  docker build -t product-service:latest .
+ 1169  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1170  docker compose up -d
+ 1171  docker compose ps
+ 1172  docker ps
+ 1173  docker build -t product-service:latest .
+ 1174  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1175  docker compose down -v
+ 1176  docker compose up -d
+ 1177  docker compose down -v
+ 1178  code .
+ 1179  curl http://localhost:8080/api/products
+ 1180  sudo systemctl status snap.kube-controller-manager.daemon.service
+ 1181  sudo systemctl restart snap.kube-controller-manager.daemon.service
+ 1182  sudo systemctl status snap.kube-controller-manager.daemon.service
+ 1183  sudo systemctl status snap.kube-apiserver.daemon.service
+ 1184  sudo microk8s status
+ 1185  sudo apt install microk8s
+ 1186  snap install microk8s
+ 1187  sudo microk8s status
+ 1188  snap install microk8s --classic
+ 1189  microk8s stop
+ 1190  sudo microk8s stop
+ 1191  sudo microk8s start
+ 1192  systemctl stop snap.kube-controller-manager.daemon.service
+ 1193  systemctl start snap.kube-controller-manager.daemon.service
+ 1194  systemctl restart snap.kube-controller-manager.daemon.service
+ 1195  systemctl status snap.kube-controller-manager.daemon.service
+ 1196  journalctl -xeu snap.kube-controller-manager.daemon.service
+ 1197  sudo microk8s stop
+ 1198  sudo microk8s start
+ 1199  journalctl -xeu snap.kube-controller-manager.daemon.service
+ 1200  sudo tail -n 50 /var/snap/microk8s/current/args/kube-controller-manager
+ 1201  sudo apt update
+ 1202  docker compose ps
+ 1203  docker ps
+ 1204  docker rm -f f97b5ac04669
+ 1205  docker rm -f 52a9b3b57014
+ 1206  docker ps
+ 1207  sudo apt update
+ 1208  sudo apt upgarde -y
+ 1209  sudo apt upgrade -y
+ 1210  sudo su
+ 1211  .mvnw clean install
+ 1212  cd spring-boot-crud-rest-api/
+ 1213  .mvnw clean install
+ 1214  ./mvnw clean install
+ 1215  ./mvnw spring-boot:run
+ 1216  docker build -t product-service:latest .
+ 1217  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1218  docker compose up -d
+ 1219  docker compose down -v
+ 1220  clear
+ 1221  ./mvnw clean install
+ 1222  ./mvnw spring-boot:run
+ 1223  clear
+ 1224  docker build -t product-service:latest .
+ 1225  clear
+ 1226  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1227  docker compose up -d
+ 1228  docker compose down
+ 1229  docker compose up -d
+ 1230  curl http://localhost:8080/api/products
+ 1231  curl 127.0.0.1:8080/api/products
+ 1232  docker compose up -d
+ 1233  docker compose ps
+ 1234  docker  ps
+ 1235  docker compose down -v
+ 1236  docker compose up -d
+ 1237  docker compose down -v
+ 1238  docker compose up -d
+ 1239  docker compose down -v
+ 1240  docker compose up -d
+ 1241  docker compose down -v
+ 1242  docker compose up -d
+ 1243  docker compose down -v
+ 1244  git clone https://github.com/learnwithiftekhar/spring-boot-crud-rest-api.git
+ 1245  ./mvnw clean install
+ 1246  ./mvnw spring-boot:run
+ 1247  ./mvnw clean install
+ 1248  ./mvnw spring-boot:run
+ 1249  cd /home/casa/.m2
+ 1250  ls
+ 1251  cd repository/
+ 1252  ls
+ 1253  cd io
+ 1254  ls
+ 1255  ls -la
+ 1256  rm -rf netty/
+ 1257  ls -la
+ 1258  sudo systemctl status redis-server
+ 1259  docker compose up -d
+ 1260  docker compose down -v
+ 1261  docker compose up -d
+ 1262  docker compose down -v
+ 1263  docker compose up -d
+ 1264  docker compose ps
+ 1265  ip a
+ 1266  docker compose down -v
+ 1267  docker compose up -d
+ 1268  docker compose down -v
+ 1269  ip a
+ 1270  docker images
+ 1271  docker rmi 7dcddc01f13b
+ 1272  docker rmi cc519e46fa89
+ 1273  clear
+ 1274  docker compose down -v
+ 1275  docker compose ps
+ 1276  docker compose down -v
+ 1277  clear
+ 1278  docker compose up -d
+ 1279  ip a
+ 1280  docker compose ps
+ 1281  docker compose down -v
+ 1282  docker images
+ 1283  docker rmi 76dcf36e7d2a
+ 1284  docker rmi 7dcddc01f13b
+ 1285  docker rmi 1f0f50f06aca
+ 1286  docker rmi 1008c73f08e9
+ 1287  clear
+ 1288  docker images
+ 1289  docker rmi cc519e46fa89
+ 1290  clear
+ 1291  docker images
+ 1292  docker ps
+ 1293  clear
+ 1294  ./mvnw clean install
+ 1295  ./mvnw spring-boot:run
+ 1296  docker compose up -d
+ 1297  ip a
+ 1298  docker ps
+ 1299  systemctl status mysql
+ 1300  systemctl status mysql.service
+ 1301  docker compose down
+ 1302  ip a
+ 1303  clear
+ 1304  ./mvnw clean install
+ 1305  docker compose up -d
+ 1306  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1307  docker rm product-service
+ 1308  docker rm -f product-service
+ 1309  code .
+ 1310  docker build -t product-service:latest .
+ 1311  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1312  docker compose down -v
+ 1313  git clone https://github.com/learnwithiftekhar/spring-boot-crud-rest-api.git
+ 1314  cd spring-boot-crud-rest-api/
+ 1315  cp .env.example .env
+ 1316  code .
+ 1317  ./mvnw clean install
+ 1318  docker build -t product-service:latest .
+ 1319  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1320  docker compose up -d
+ 1321  docker compose down -v
+ 1322  docker compose up -d
+ 1323  docker compose down -v
+ 1324  cd spring-boot-crud-rest-api/
+ 1325  code .
+ 1326  ./mvnw clean install
+ 1327  docker build -t product-service:latest .
+ 1328  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1329  docker compose up -d
+ 1330  docker compose down -v
+ 1331  docker compose up -d
+ 1332  docker compose down -v
+ 1333  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1334  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1335  docker compose up -d
+ 1336  docker compose down -v
+ 1337  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1338  ./mvnw clean install
+ 1339  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1340  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1341  docker compose up -d
+ 1342  docker compose down -v
+ 1343  docker compose up -d
+ 1344  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1345  docker images
+ 1346  docker run --help
+ 1347  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1348  docker compose up -d
+ 1349  docker compose down
+ 1350  docker compose up -d
+ 1351  docker compose down -v
+ 1352  docker compose up -d
+ 1353  docker compose down -v
+ 1354  code .
+ 1355  sudo su
+ 1356  sudo systemctl stop jenkins
+ 1357  sudo systemctl stop ollama
+ 1358  sudo su
+ 1359  ollama list
+ 1360  sudo systemctl start ollama
+ 1361  ollama list
+ 1362  docker images
+ 1363  docker compose down -v
+ 1364  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1365  docker compose up -d
+ 1366  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1367  docker compose down -v
+ 1368  docker compose up -d
+ 1369  docker run --name product-service -e DB_HOST=127.0.0.1 -e DB_USER=root -e DB_PASSWORD=1234 -p 8080:8080 product-service:latest
+ 1370  docker compose down -v
+ 1371  clear
+ 1372  ./mvnw clean install
+ 1373  ./mvnw spring-boot:run
+ 1374  docker build -t product-service:latest .
+ 1375  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:25-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:25-jre   -t product-service:latest .
+ 1376  clear
+ 1377  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:25-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:25-jre   -t product-service:latest .
+ 1378  docker build -t product-service:latest .
+ 1379  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1380  clear
+ 1381  code .
+ 1382  code .
+ 1383  cd ~/.ollama/models
+ 1384  sudo swapon --show
+ 1385  sudo swapoff /swap.img
+ 1386  sudo rm /swap.img
+ 1387  nano /etc/fstab
+ 1388  du -sh /var/cache/apt/archives/
+ 1389  sudo su
+ 1390  sudo su
+ 1391  $ npm cache clean --force
+ 1392  sudo npm cache clean --force
+ 1393  npm cache verify
+ 1394  npm start -- --reset-cache
+ 1395  rm -rf node_modules
+ 1396  npm cache clean --force
+ 1397  npm install
+ 1398  clear
+ 1399  npm cache verify
+ 1400  sudo apt update
+ 1401  sudo apt upgrade
+ 1402  sudo su
+ 1403  code .
+ 1404  sudo systemctl stop jenkins
+ 1405  sudo systemctl stop ollama
+ 1406  curl -X GET http://localhost:8080/api/products
+ 1407  cd spring-boot-rest-api/
+ 1408  ./mvnw clean install
+ 1409  ./mvnw spring-boot:run
+ 1410  clear
+ 1411  ./mvnw clean install
+ 1412  ./mvnw spring-boot:run
+ 1413  clear
+ 1414  ./mvnw clean install
+ 1415  ./mvnw spring-boot:run
+ 1416  clear
+ 1417  ./mvnw clean install
+ 1418  clear
+ 1419  ./mvnw clean install
+ 1420  ./mvnw spring-boot:run
+ 1421  clear
+ 1422  docker compose up -d
+ 1423  ./mvnw clean install
+ 1424  docker  ps
+ 1425  ip a
+ 1426  ./mvnw clean install
+ 1427  clear
+ 1428  ./mvnw clean install
+ 1429  clear
+ 1430  ./mvnw clean
+ 1431  ./mvnw compile
+ 1432  ./mvnw clean install
+ 1433  ./mvnw spring-boot:run
+ 1434  docker build -t product-service:latest .
+ 1435  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1436  docker compose down -v
+ 1437  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1438  docker compose up -d
+ 1439  docker compose up -d mysql
+ 1440  docker compose up -d run mysql
+ 1441  docker compose up -d mysqldb
+ 1442  docker exec -it mysqldb logs
+ 1443  docker exec -it mysqldb
+ 1444  docker exec -t mysqldb
+ 1445  docker compose logs -f app
+ 1446  docker compose down -v
+ 1447  clear
+ 1448  "/home/casa/eclipse-workspace/DockerizeSpringBootApp/spring-boot-rest-api/mvnw" org.springframework.boot:spring-boot-maven-plugin:process-aot -f "/home/casa/eclipse-workspace/DockerizeSpringBootApp/spring-boot-rest-api/pom.xml"
+ 1449  ./mvnw clean install
+ 1450  ./mvnw compile
+ 1451  ./mvnw test
+ 1452  ./mvnw spring-boot:run
+ 1453  docker build -t product-service:latest .
+ 1454  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1455  docker compose up -d
+ 1456  docker compose down -v
+ 1457  ./mvnw clean install
+ 1458  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1459  docker build -t product-service:latest .
+ 1460  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1461  docker compose up -d
+ 1462  docker compose ps
+ 1463  docker compose down -v
+ 1464  docker compose up -d
+ 1465  docker compose down -v
+ 1466  docker compose up -d
+ 1467  docker compose down -v
+ 1468  docker compose up -d
+ 1469  docker compose down -v
+ 1470  clear
+ 1471  docker compose up -d
+ 1472  docker compose down -v
+ 1473  docker compose up -d
+ 1474  docker compose down -v
+ 1475  docker exec -it mysql-container mysql -u root -p
+ 1476  docker compose ps
+ 1477  clear
+ 1478  docker exec -it mysql-container mysql
+ 1479  docker exec -it mysql-container mysql -u root -p
+ 1480  docker exec -it mysqldb mysql
+ 1481  docker exec -it mysqldb mysql -u root -p
+ 1482  curl -X GET http://localhost:8080/api/products
+ 1483  code .
+ 1484  docker exec -it mysqldb mysql -u root -p
+ 1485  docker compose ps
+ 1486  sudo su
+ 1487  docker compose ps
+ 1488  clear
+ 1489  curl http://localhost:8080/api/products
+ 1490  docker compose up -d
+ 1491  docker compose down -v
+ 1492  ./mvnw clean install
+ 1493  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1494  docker run --name product-service   -e DB_HOST=127.0.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1495  docker compose up -d
+ 1496  docker compose down -v
+ 1497  docker compose up -d
+ 1498  docker compose down -v
+ 1499  docker compose up -d
+ 1500  code .
+ 1501  git clone https://github.com/learnwithiftekhar/spring-boot-crud-rest-api.git
+ 1502  cd spring-boot-crud-rest-api/
+ 1503  code .
+ 1504  ./mvnw clean install
+ 1505  ./mvnw spring-boot:run
+ 1506  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1507  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1508  docker compose up -d
+ 1509  docker compose down -v
+ 1510  docker compose down
+ 1511  docker compose down -v
+ 1512  docker compose up -d
+ 1513  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=ifte   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1514  docker compose down -v
+ 1515  docker compose up -d
+ 1516  docker compose down -v
+ 1517  ./mvnw clean install
+ 1518  ./mvnw spring-boot:run
+ 1519  code
+ 1520  sudo su
+ 1521  docker imagesa
+ 1522  docker images
+ 1523  docker rmi 76dcf36e7d2a 
+ 1524  docker rmi 7dcddc01f13b
+ 1525  docker rmi *
+ 1526  docker rmi 
+ 1527  docker rmi 2725e177409f
+ 1528  docker rmi 1f0f50f06aca
+ 1529  docker rmi 1008c73f08e9
+ 1530  docker image
+ 1531  docker images
+ 1532  docker rmi 2725e177409f
+ 1533  docker rmi d81effdcbcaa
+ 1534  docker images
+ 1535  docker rmi -f 2725e177409f
+ 1536  docker images
+ 1537  clear
+ 1538  docker build .
+ 1539  docker imageas
+ 1540  docker images
+ 1541  sudo systemctl stop jenkins
+ 1542  sudo systemctl status jenkins
+ 1543  docker build .
+ 1544  docker images
+ 1545  sudo lsof -i :8080
+ 1546  sudo ss -lptn 'sport = :8080'
+ 1547  sudo netstat -tulnp | grep 8080
+ 1548  clear
+ 1549  docker build .
+ 1550  docker images
+ 1551  docker ps
+ 1552  clear
+ 1553  docker images
+ 1554  docker compose ps
+ 1555  docker ps
+ 1556  docker images
+ 1557  sudo docker images
+ 1558  docker build .
+ 1559  docker images
+ 1560  docker build .
+ 1561  docker images
+ 1562  docker restart
+ 1563  docker images
+ 1564  code .
+ 1565  docker build .
+ 1566  docker images
+ 1567  sudo su 
+ 1568  mvn clean
+ 1569  docker build .
+ 1570  docker images
+ 1571  docker build .
+ 1572  docker images
+ 1573  docker image build -t docker-java-jar:latest .
+ 1574  docker images
+ 1575  docker image build -t docker-demo-image-1:tag1 .
+ 1576  docker run -p 8080 docker-demo-image1:tag1
+ 1577  docker run -p 8080 docker-demo-image-1:tag1
+ 1578  clear
+ 1579  # cat .env
+ 1580  MYSQL_DATABASE=my_db_name
+ 1581  MYSQL_USER=baeldung
+ 1582  MYSQL_PASSWORD=pass
+ 1583  MYSQL_ROOT_PASSWORD=pass
+ 1584  MYSQL_PORT=3306
+ 1585  ls -la
+ 1586  echo "[200~# cat .env"
+ 1587  MYSQL_DATABASE=my_db_name
+ 1588  MYSQL_USER=baeldung
+ 1589  MYSQL_PASSWORD=pass
+ 1590  MYSQL_ROOT_PASSWORD=pass
+ 1591  clear
+ 1592  echo "# cat .env
+ 1593  MYSQL_DATABASE=my_db_name
+ 1594  MYSQL_USER=baeldung
+ 1595  MYSQL_PASSWORD=pass
+ 1596  MYSQL_ROOT_PASSWORD=pass
+ 1597  MYSQL_PORT=3306" .env
+ 1598  ls -la
+ 1599  docker image build -t docker-demo-image-2:tag2 .
+ 1600  docker compose up -d
+ 1601  docker image build -t docker-demo-image-3:tag3 .
+ 1602  docker run docker-demo-image-2:tag2 .
+ 1603  docker run docker-demo-image-3:tag3
+ 1604  docker compose up -d
+ 1605  code .
+ 1606  docker build -t docker-demo-image-3:tag3
+ 1607  docker compose up -d
+ 1608  docker compose down
+ 1609  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1610  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1611  docker compose down
+ 1612  docker compose up -d
+ 1613  docker compose down -v
+ 1614  docker compose up -d
+ 1615  ./mvnw clean install
+ 1616  ./mvnw spring-boot:run
+ 1617  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1618  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1619  docker compose up -d
+ 1620  docker compose down -v
+ 1621  clear
+ 1622  curl -X GET http://localhost:8080/api/products
+ 1623  curl -X GET 172.17.0.1:8080/api/products
+ 1624  curl -X GET http://localhost:8080/api/products
+ 1625  docker compose down -v
+ 1626  docker compose up -d
+ 1627  curl -X GET http://localhost:8080/api/products
+ 1628  curl -X GET 172.17.0.1:8080/api/products
+ 1629  docker compose up -d
+ 1630  docker run --name product-service   -e DB_HOST=172.18.0.1   -e DB_USER=root   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1631  ./mvnw clean install
+ 1632  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1633  docker compose up -d
+ 1634  docker compose down -v
+ 1635  code .
+ 1636  docker compose up -d
+ 1637  cd /home/tools
+ 1638  cd /home/tools/
+ 1639  docker compose up -d
+ 1640  docker exec -it mysql-container mysql -u root -p
+ 1641  clear
+ 1642  docker exec -it mysql-container mysql -u root -p
+ 1643  docker compose up -d
+ 1644  docker exec -it mysql-container mysql -u root -p
+ 1645  docker compose up -d
+ 1646  code .
+ 1647  sudo su
+ 1648  docker ps
+ 1649  docker volume
+ 1650  docker ps -a
+ 1651  docker volume ls
+ 1652  docker prune
+ 1653  docker container prune
+ 1654  docker ps
+ 1655  docker compose ps
+ 1656  docker volume ls
+ 1657  docker volume rm -f $(docker volume ls -q)
+ 1658  docker volume ls
+ 1659  docker network ls
+ 1660  docker network prune -a --force
+ 1661  docker network prune
+ 1662  docker network ls
+ 1663  docker ps
+ 1664  docker compose ps
+ 1665  docker network prune -f
+ 1666  docker network ls
+ 1667  docker -v
+ 1668  clear
+ 1669  docker system df
+ 1670  docker ps
+ 1671  docker images
+ 1672  docker images -a
+ 1673  docker image prune
+ 1674  docker images -a
+ 1675  docker system df
+ 1676  docker network ls
+ 1677  docker network prune
+ 1678  docker network ls
+ 1679  docker network prune -f
+ 1680  docker network ls
+ 1681  docker volume ls
+ 1682  docker volume -a ls
+ 1683  docker volume -a
+ 1684  docker volume ls -a
+ 1685  docker volume ls
+ 1686  docker container prune
+ 1687  docker network ls
+ 1688  docker images prune
+ 1689  docker image prune
+ 1690  docker network prune
+ 1691  docker builder prune
+ 1692  clear
+ 1693  docker system fd
+ 1694  docker system md
+ 1695  docker system df
+ 1696  clear
+ 1697  docker network ls
+ 1698  docker volume prune
+ 1699  sudo su
+ 1700  sudo systemctl stop jenkins
+ 1701  code .
+ 1702  docker compose ps
+ 1703  docker compose logs -f app
+ 1704  docker compose logs -f app
+ 1705  docker volume ls
+ 1706  docker compose down
+ 1707  docker compose down -v
+ 1708  docker compose -v
+ 1709  docker compose down -v
+ 1710  clear
+ 1711  docker logs spring-boot-crud-rest-api-mysqldb-1
+ 1712  docker run --name product-service -e DB_HOST=172.17.0.1 -e DB_USER=ifte -e DB_PASSWORD=1234 -p 8080:8080 product-service:latest
+ 1713  docker ps
+ 1714  docker images
+ 1715  docker volume ls
+ 1716  docker ps -a
+ 1717  docker run --rm --name product-service -e DB_HOST=172.17.0.1 -e DB_USER=ifte -e DB_PASSWORD=1234 -p 8080:8080 product-service:latest
+ 1718  docker rm product-service
+ 1719  docker run --name product-service   -e DB_HOST=172.17.0.1   -e DB_USER=ifte   -e DB_PASSWORD=1234   -p 8080:8080   product-service:latest
+ 1720  docker compose up -d
+ 1721  clear
+ 1722  docker compose down -v
+ 1723  docker compose up -d
+ 1724  docker compose down -v
+ 1725  docker compose up -d
+ 1726  docker compose down -v
+ 1727  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1728  cp .env.example .env
+ 1729  hostname -I
+ 1730  ip a
+ 1731  docker system df
+ 1732  docker ps
+ 1733  docker ps -a
+ 1734  docker images
+ 1735  docker volume ls
+ 1736  docker network
+ 1737  docker network ls
+ 1738  docker stop $(docker ps -a -q)
+ 1739  docker rm $(docker ps -a -q)
+ 1740  docker rmi -f $(docker images -q)
+ 1741  docker images
+ 1742  docker ps -a
+ 1743  docker volume ls
+ 1744  docker builder prune
+ 1745  clear
+ 1746  docker container prune
+ 1747  docker image prune
+ 1748  docker network prune
+ 1749  docker builder prune
+ 1750  docker system df
+ 1751  clear
+ 1752  sudo apt update
+ 1753  clear
+ 1754  docker build   --build-arg BASE_JDK_IMAGE=eclipse-temurin:21-jdk   --build-arg BASE_JRE_IMAGE=eclipse-temurin:21-jre   -t product-service:latest .
+ 1755  docker ps
+ 1756  docker images
+ 1757  docker run --name product-service -e DB_HOST=172.17.0.1 -e DB_USER=ifte -e DB_PASSWORD=1234 -p 8080:8080 product-service:latest
+ 1758  docker compose up -d
+ 1759  docker compose down -v
+ 1760  docker system df
+ 1761  docker stop $(docker ps -a -q)
+ 1762  docker rm $(docker ps -a -q)
+ 1763  docker rmi -f $(docker images -q)
+ 1764  docker volume ls
+ 1765  docker container prune
+ 1766  docker image prune
+ 1767  docker network prune
+ 1768  docker builder prune
+ 1769  clear
+ 1770  sudo apt update
+ 1771  clear
+ 1772  docker compose up -d
+ 1773  git branch
+ 1774  git remote
+ 1775  docker compose down -v
+ 1776  git clone https://github.com/learnwithiftekhar/spring-boot-crud-rest-api.git
+ 1777  docker volume prune
+ 1778  docker network ls
+ 1779  docker container prune
+ 1780  docker image prune
+ 1781  docker network prune
+ 1782  docker builder prune
+ 1783  docker system df
+ 1784  docker builder prune
+ 1785  docker image prune
+ 1786  docker system df
+ 1787  docker stop $(docker ps -a -q)
+ 1788  docker rmi -f $(docker images -q)
+ 1789  docker rm $(docker ps -a -q)
+ 1790  docker system df
+ 1791  docker ps
+ 1792  docker images
+ 1793  docker volume ls
+ 1794  docker container prune
+ 1795  docker image prune
+ 1796  docker network prune
+ 1797  docker builder prune
+ 1798  docker system df
+ 1799  git clone https://github.com/rochdi1/DockerizeSpringBootApp.git
+ 1800  cd DockerizeSpringBootApp/
+ 1801  ls
+ 1802  code .
+ 1803  ps -ef | grep jenkins
+ 1804  rm -rf /root/.jenkins/
+ 1805  sudo rm -rf /root/.jenkins/
+ 1806  ps -ef | grep jenkins
+ 1807  sudo kill -9 41203
+ 1808  cd $CATALINA_HOME/bin
+ 1809  bash catalina.sh stop
+ 1810  cd $CATALINA_HOME/webapps
+ 1811  rm -rf jenkins.war jenkins
+ 1812  rm -rf /root/.jenkins/
+ 1813  sudo rm -rf /root/.jenkins/
+ 1814  sudo apt update
+ 1815  clear
+ 1816  ps -ef | grep jenkins
+ 1817  sudo systemctl status jenkins
+ 1818  ps -ef | grep jenkins
+ 1819  sudo systemctl stop jenkins.service
+ 1820  sudo rm -rf /var/lib/jenkins
+ 1821  sudo apt-get remove --purge jenkins
+ 1822  sudo apt update
+ 1823  sudo apt auto-remove
+ 1824  code .
+ 1825  ls
+ 1826  mvn compile
+ 1827  mvn test
+ 1828  mvn package
+ 1829  mvn clean install
+ 1830  mvn compile
+ 1831  mvn test
+ 1832  mvn package
+ 1833  mvn clean install
+ 1834  cd ..
+ 1835  ls 
+ 1836  cd spring-boot-crud-rest-api/
+ 1837  clear
+ 1838  docker compose up -d
+ 1839  clear
+ 1840  docker compose down -v
+ 1841  docker stop $(docker ps -a -q)
+ 1842  docker rm $(docker ps -a -q)
+ 1843  docker rmi -f $(docker images -q)
+ 1844  clear
+ 1845  docker compose up -d
+ 1846  clear
+ 1847  docker compose down -v
+ 1848  docker compose up -d
+ 1849  cd ..
+ 1850  git status
+ 1851  git add .
+ 1852  git commit -m "test1"
+ 1853  git add .
+ 1854  git commit -m "test1"
+ 1855  git commit -a "test1"
+ 1856  git push
+ 1857  ls -la
+ 1858  cd spring-boot-crud-rest-api/
+ 1859  ls -la
+ 1860  chmod 777 .
+ 1861  ls -la
+ 1862  docker compose down -v
+ 1863  code .
+ 1864  sudo apt clean       # Leert den Cache für heruntergeladene Updates
+ 1865  sudo apt autoremove  # Entfernt ungenutzte Systemdateien und alte Kernel
+ 1866  sudo su
+ 1867  sudo kubeadm reset -f
+ 1868  clear
+ 1869  sudo su
+ 1870  microk8s kubectl get ns
+ 1871  sudo su
+ 1872  sudo su
+ 1873  tempest
+ 1874  tempest-app
+ 1875  tempest
+ 1876  sudo apt update
+ 1877  sudo apt install wine64
+ 1878  sudo su
+ 1879  ping 8.8.8.8
+ 1880  ping ubuntu@ec2-3-78-245-198.eu-central-1.compute.amazonaws.com
+ 1881  ping 3.78.245.198
+ 1882  cd Downloads/
+ 1883  ls
+ 1884  chmod 400 "dev-jenkins-key-001.pem"
+ 1885  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-3-78-245-198.eu-central-1.compute.amazonaws.com
+ 1886  clear
+ 1887  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-3-78-245-198.eu-central-1.compute.amazonaws.com
+ 1888  sudo apt update
+ 1889  clear
+ 1890  ping 3.78.245.198
+ 1891  cd Do
+ 1892  cd Downloads/
+ 1893  clear
+ 1894  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-3-78-245-198.eu-central-1.compute.amazonaws.com
+ 1895  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-18-185-85-254.eu-central-1.compute.amazonaws.com
+ 1896  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-18-197-152-145.eu-central-1.compute.amazonaws.com
+ 1897  ssh -i "dev-jenkins-key-001.pem" ubuntu@ec2-63-180-1-111.eu-central-1.compute.amazonaws.com
+ 1898  git branch
+ 1899  echo "# gitTest" >> README.md
+ 1900  git init
+ 1901  git add README.md
+ 1902  git commit -m "first commit"
+ 1903  git branch -M main
+ 1904  git remote add origin https://github.com/rochdi1/gitTest3.git
+ 1905  git push -u origin main
+ 1906  gh repo delete rochdi1/gitTest --yes
+ 1907  gh repo delete rochdi1/repo-name --yes
+ 1908  cd Downloads/
+ 1909  mkdir gitTest
+ 1910  cd gitTest/
+ 1911  touch premier.txt
+ 1912  ls
+ 1913  git init
+ 1914  ls
+ 1915  ls -la
+ 1916  git log
+ 1917  git config
+ 1918  git config name="abdel"
+ 1919  git config name="rochdi1"
+ 1920  git config user.name "abdel"
+ 1921  git config user.email "rochdi.abdou3@gmail.com"
+ 1922  git config
+ 1923  git config --list
+ 1924  git config --global --edit
+ 1925  git config --list
+ 1926  git status
+ 1927  git add .
+ 1928  git status
+ 1929  git commit -m "create premier.txt"
+ 1930  git push
+ 1931  git remote -v
+ 1932  git log
+ 1933  git remote add origin https://github.com
+ 1934  git remote -v
+ 1935  git push
+ 1936  git push -u origin main
+ 1937  git remote add origin https://github.com/rochdi1
+ 1938  git remote set-url origin https://github.com/rochdi1
+ 1939  git remote -v
+ 1940  git push -u origin main
+ 1941  git push
+ 1942  git push --set-upstream origin master
+ 1943  gh repo create gitTest --public --source=. --remote=origin --push
+ 1944  gh auth login
+ 1945  git config --list
+ 1946  gh repo create repo-name --public --source=. --remote=origin --push
+ 1947  gh repo create gitTest --public --source=. --remote=origin --push
+ 1948  git remot -v
+ 1949  git remote -v
+ 1950  git remote add origin https://github.com/rochdi1/gitTest.git
+ 1951  git branch -M main
+ 1952  git push -u origin main
+ 1953  ls -la
+ 1954  rm -r .git
+ 1955  rm -rf .git
+ 1956  ls -la
+ 1957  clear
+ 1958  git config --list
+ 1959  git remote add origin https://github.com/rochdi1/gitTest.git
+ 1960  git branch -M main
+ 1961  git push -u origin main
+ 1962  git init
+ 1963  git remote add origin https://github.com/rochdi1/gitTest.git
+ 1964  git branch -M main
+ 1965  git push -u origin main
+ 1966  git log
+ 1967  git checkout d6621c
+ 1968  git remote -v
+ 1969  git branch
+ 1970  git branch --help
+ 1971  git branch --edit-description firstBranch
+ 1972  git branch --edit-description "firstBranch"
+ 1973  git-branch create firstBranch
+ 1974  git branch create firstBranch
+ 1975  git branch create "firstBranch"
+ 1976  git checkout -b firstBranch
+ 1977  git branch
+ 1978  git log
+ 1979  git logs
+ 1980  git checkout master
+ 1981  git log
+ 1982  git checkout 69a163 -b branchwithtext3
+ 1983  ls -la
+ 1984  git remote -v
+ 1985  ls
+ 1986  git remote add origin https://github.com/rochdi1/repoTest.git
+ 1987  git push -u origin main
+ 1988  gh repo create repoTest --public --source=. --remote=origin --push
+ 1989  git branch
+ 1990  git push -u branchwithtext3 main
+ 1991  git push -u master main
+ 1992  git push
+ 1993  git push --set-upstream origin branchwithtext3
+ 1994  git chechout master
+ 1995  git checkout master
+ 1996  git push
+ 1997  git push --set-upstream origin master
+ 1998  git branch
+ 1999  git checkout firstBranch 
+ 2000  git push
+ 2001  git push --set-upstream origin firstBranch
+ 2002  git checkout master
+ 2003  history > histrory.txt
